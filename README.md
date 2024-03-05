@@ -5,6 +5,6 @@ Simple python script that purposely suspends GTAV.exe, causing the player to be 
 Just install psutil via pip and you'll be ready to go
 
 # Run
-> python buggaSessione.py
+``` python buggaSessione.py ```
 
 Only works on Windows. Tested with Python 3.8, 3.10 and 3.11, but any other Python3 version should be fine.
